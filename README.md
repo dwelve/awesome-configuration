@@ -17,8 +17,9 @@ Some commands (note: MOD4 is the "Windows" or Mac equivalent key):
 
  * MOD4-p : dmenu
    * dmenu is a smart command launcher. Just start typing in a command, and it's 
-     matching system will narrow down the command choices for you. For
-     example, typing in "fox" brings up "firefox" on my system. Hit enter and 
+     matching system will narrow down the command choices for you. 
+     For example, typing in "fox" brings up "firefox" on my system. These commands
+     are located at the top of the screen (this can be configured). Hit enter and 
      the command will run. You could also type in the whole name, too.
      
 Specifics:
