@@ -10,6 +10,7 @@ Next, install my configuration into your awesome config folder. (Make sure that
     cd ~/.config
     git clone git://github.com/dwelve/awesome-configuration.git awesome
     git submodule init
+    git submodule update
 
 I forget why I have the submodule in there :) I think it was for icons...
 
