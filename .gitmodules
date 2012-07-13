@@ -1,0 +1,3 @@
+[submodule "themes/zenburn/awesome-configs"]
+	path = themes/zenburn/awesome-configs
+	url = http://git.sysphere.org/awesome-configs
