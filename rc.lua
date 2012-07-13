@@ -414,4 +414,4 @@ end
 run_once("vmware-user")
 
 
-require_safe('autorun')
+--require_safe('autorun')
