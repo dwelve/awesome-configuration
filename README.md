@@ -12,3 +12,15 @@ Next, install my configuration into your awesome config folder. (Make sure that
     git submodule init
 
 I forget why I have the submodule in there :) I think it was for icons...
+
+Some commands (note: MOD4 is the "Windows" or Mac equivalent key):
+
+ * MOD4-p : dmenu
+   * dmenu is a smart command launcher. Just start typing in a command, and it's 
+     matching system will narrow down the command choices for you. For
+     example, typing in "fox" brings up "firefox" on my system. Hit enter and 
+     the command will run. You could also type in the whole name, too.
+     
+Specifics:
+
+ * I turned the "focus following the mouse" feature off.
